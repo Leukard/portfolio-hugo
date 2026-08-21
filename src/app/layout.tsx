@@ -13,8 +13,8 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Hugo | Desenvolvedor Backend",
-  description: "Portfólio de Hugo, técnico em Desenvolvimento de Sistemas com foco em backend.",
+  title: "Hugo | Desenvolvedor Full Stack",
+  description: "Portfólio de Hugo, técnico em Desenvolvimento de Sistemas fullstack.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

@@ -1,7 +1,7 @@
 "use client";
 import { useState, useEffect } from "react";
 
-const CODE_LINE = `const dev = { nome: "Hugo", foco: "backend" };`;
+const CODE_LINE = `const dev = { nome: "Hugo", foco: "fullstack" };`;
 
 export default function TypingTerminal() {
   const [displayed, setDisplayed] = useState("");
