@@ -157,7 +157,7 @@ export default function Home() {
           >
             <h2 className="text-3xl font-bold mb-8 text-center">Sobre mim</h2>
             <p className="text-slate-400 mb-6 leading-relaxed">
-              Eu curto o momento em que um sistema começa a "fazer sentido", quando as pontas se conectam — desde a interface interativa onde o usuário clica até o banco de dados onde tudo é processado com segurança. Foi isso que me fisgou durante o curso técnico no SENAI CIMATEC, principalmente no MecSys: Sistema de Gestão Inteligente de Oficina, meu TCC, desenvolvido em equipe e entregue a um cliente real. Ali entendi na prática o valor de entregar uma aplicação completa e funcional.
+              Eu curto o momento em que um sistema começa a "fazer sentido", quando as pontas se conectam desde a interface interativa onde o usuário clica até o banco de dados onde tudo é processado com segurança. Foi isso que me fisgou durante o curso técnico no SENAI CIMATEC, principalmente no MecSys: Sistema de Gestão Inteligente de Oficina, meu TCC, desenvolvido em equipe e entregue a um cliente real. Ali entendi na prática o valor de entregar uma aplicação completa e funcional.
             </p>
             <p className="text-slate-400 mb-10 leading-relaxed">
               Como Desenvolvedor Full Stack, uno o melhor dos dois mundos: crio interfaces modernas e responsivas com React, Next.js e Tailwind CSS, sem abrir mão da minha base em arquitetura de APIs, testes e modelagem de dados com Node.js, Express e PostgreSQL/Supabase. Construí projetos como o StudyTrack do zero para aprofundar essas integrações, e sigo estudando boas práticas de desenvolvimento diariamente.
